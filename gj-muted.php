@@ -2,7 +2,7 @@
 /*
 Plugin Name: GJ Muted
 Plugin URI: http://gunnjerkens.com
-Description: Mutes and disabled all comments across a site.
+Description: Mutes and disables all comments across a site.
 Version: 0.0.1
 Author: Gunn|Jerkens
 Author URI: http://gunnjerkens.com

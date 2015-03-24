@@ -5,6 +5,10 @@ Plugin to shut down and mute WordPress comments. Removes menu item from wp-admin
 
 [Download](https://github.com/GunnJerkens/gj-muted/archive/master.zip) as zip and upload via wp-admin or clone as a git submodule.
 
+## roadmap
+
+- Expand to handle pingbacks, trackbacks, and all other bot abused items  
+
 ## license
 
 MIT
